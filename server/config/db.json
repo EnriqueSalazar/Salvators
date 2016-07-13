@@ -1,0 +1,9 @@
+{
+  "username": "root",
+  "password": "2012",
+  "database": "salvators_db",
+  "host": {
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
